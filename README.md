@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @happyby7
-- 👀 I’m interested in girls.
-- 🌱 I’m currently learning Cryptos.
-- 💞️ I’m looking to collaborate on Cryptos videos.
-- 📫 How to reach me by bird.
+- 👀 I’m interested in improve myself every day.
+- 🌱 I’m currently learning about cryptos.
+- 💞️ I'm looking to collaborate in a place where I am valued.
+- 📫 How to reach me: tabletdiego29@gmail.com
 
 <!---
 happyby7/happyby7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
