@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @happyby7
 - 👀 I’m interested in improve myself every day.
-- 🌱 I’m currently learning about cryptos.
+- 🌱 I’m currently learning about Cryptocurrency.
 - 💞️ I'm looking to collaborate in a place where I am valued.
 - 📫 How to reach me: tabletdiego29@gmail.com
 
