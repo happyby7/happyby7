@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @happyby7
 - 👀 I’m interested in improve myself every day.
-- 🌱 I’m currently learning about Cloud Computing.
+- 🌱 I’m currently learning about software development.
 - 💞️ I'm looking to collaborate in a place where I am valued.
 - 📫 How to reach me: lopezhappy127@gmail.com
 
