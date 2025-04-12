@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @happyby7
+- 👋 Hi, I’m Diego.
 - 👀 I’m interested in improve myself every day.
 - 🌱 I’m currently learning about software development.
 - 💞️ I'm looking to collaborate in a place where I am valued.
